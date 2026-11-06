@@ -1,0 +1,17 @@
+{
+  "version": "1.13.2",
+  "displayVersion": "1.11.1",
+  "build": 11302,
+  "apk": "https://stepline1.github.io/StepLine-1.11.1.apk",
+  "notes": {
+    "uz": [
+      "Profil: Reyting, Do'stlar va Kolleksiya tugmalari bir qatorda, bir xil ko'rinishda"
+    ],
+    "ru": [
+      "Профиль: кнопки Рейтинг, Друзья и Коллекция в один ряд, одинакового вида"
+    ],
+    "en": [
+      "Profile: Leaderboard, Friends and Collection buttons in one even row"
+    ]
+  }
+}
