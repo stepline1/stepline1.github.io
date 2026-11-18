@@ -1,0 +1,20 @@
+{
+  "version": "1.14.13",
+  "displayVersion": "1.11.1",
+  "build": 11413,
+  "apk": "https://stepline1.github.io/StepLine-1.11.1-11413.apk",
+  "notes": {
+    "uz": [
+      "🪙 Tanga do'koni: Starter pack, tanga paketlari va kassa",
+      "Balansni bossangiz do'kon ochiladi"
+    ],
+    "ru": [
+      "🪙 Магазин монет: стартовый набор, наборы монет и копилка",
+      "Нажмите на баланс, чтобы открыть магазин"
+    ],
+    "en": [
+      "🪙 Coin shop: Starter pack, coin packs and the coin jar",
+      "Tap your balance to open the shop"
+    ]
+  }
+}
